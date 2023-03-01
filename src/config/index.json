@@ -1,0 +1,139 @@
+{
+  "company": {
+    "name": "React landing page 2021",
+    "logo": "/assets/images/logo.png"
+  },
+  "navigation": [
+    {
+      "name": "Products",
+      "href": "product"
+    },
+    {
+      "name": "About us",
+      "href": "features"
+    }
+  ],
+  "callToAction": {
+    "text": "Get started",
+    "href": "https://forms.gle/A7HhKt5EJf4jaopcA"
+  },
+  "mainHero": {
+    "title": "The future is",
+    "subtitle": "type C",
+    "description": "Level up your embedded game with a range of type C development boards. Fire up your embedded boards with our type C supported microcontrollers.",
+    "img": "/assets/images/happyTeam.jpeg",
+    "primaryAction": {
+      "text": "Talk to us",
+      "href": "https://forms.gle/A7HhKt5EJf4jaopcA"
+    },
+    "secondaryAction": {
+      "text": "Email us",
+      "href": ""
+    }
+  },
+  "product": {
+    "title": "Recently Launched",
+    "items": [
+      {
+        "title": "A plug n play template",
+        "description": "Just edit the config.json file with details about your company and voila your beautiful state of the art landing page is ready to go live! Remember to also update your assets, add any images you want to show to /assets/images and link them in the config.json",
+        "img": "/assets/images/product1.png"
+      }
+    ]
+  },
+  "features": {
+    "title": "A Quinch Systems Venture",
+    "subtitle": "SystemOnC",
+    "description": "At SystemOnC we have a passionate team of engineers and scientists focused towards developing cutting-edge, low-power series of modules and development boards each one of them supports type C connector. We have developed Type-C USB-to-TTL Converter, type C enabled ESP32, type C NodeMCU,  type C Arduino boards etc. We are committed to offering solutions which are secure, robust and power-efficient. We are inviting the embedded community to empower their development journey with our type C supported modules and development boards.",
+    "items": [
+      {
+        "name": "Address",
+        "description": "20/ 2, James Long Sarani, Diamond Park, Joka, Kolkata, West Bengal 700104",
+        "icon": "/assets/images/address.png"
+      },
+      {
+        "name": "Phone",
+        "description": "+91 7278837074 / 8961801848",
+        "icon": "/assets/images/phone.png"
+      },
+      {
+        "name": "Mail us at",
+        "description": "sarojit@systemonc.com / akash@systemonc.com",
+        "icon": "/assets/images/mail.png"
+      },
+      {
+        "name": "Careers",
+        "description": "Mail us at careers@systemonc.com",
+        "icon": "/assets/images/careers.png"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Pricing",
+    "items": [
+      {
+        "name": "Free",
+        "price": "$0",
+        "priceDetails": "for one user",
+        "features": [
+          "1 user",
+          "Basic Support",
+          "1 GB of storage",
+          "Email support"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": "$15",
+        "priceDetails": "per user",
+
+        "features": [
+          "5 users",
+          "Priority Support",
+          "10 GB of storage",
+          "Phone and Email support"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "price": "$29",
+        "priceDetails": "per user",
+        "features": [
+          "50 users",
+          "24/7 Support",
+          "100 GB of storage",
+          "Phone and Email support"
+        ]
+      }
+    ]
+  },
+  "about": {
+    "sections": [
+      {
+        "name": "ABC",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      }
+    ],
+    "socialMedia": {
+      "github": "https://github.com/issaafalkattan",
+      "twitter": "https://twitter.com/issaafkattan",
+      "linkedin": "https://www.linkedin.com/in/issaaf-kattan/"
+    }
+  }
+}
